@@ -1,0 +1,72 @@
+{"spongebobcharacters":[
+    {
+        "name":"SpongeBob SquarePants",
+        "age":35,
+        "residence":"124 Conch Street",
+        "occupation":"Fry Cook",
+        "date":"2000-05-10"
+    },
+    {
+        "name":"Patrick Star",
+        "age":37,
+        "residence":"120 Conch Street",
+        "occupation":"no form of occupation.",
+        "date":"2020-09-18"
+    },
+    {
+        "name":"Squidward",
+        "age":"Unknown",
+        "residence":"122 Conch Street",
+        "occupation":"Cashier",
+        "date":"2022-11-20"
+    },
+    {
+        "name":"Plankton",
+        "age":59,
+        "residence":"The Chum Bucket",
+        "occupation":"Chum Bucket Manager",
+        "date":"1999-10-20"
+    },
+    {
+        "name":"Sandy Cheeks",
+        "age":36,
+        "residence":"Sandy's treedome",
+        "occupation":"Scientist",
+        "date":"2010-06-09"
+    },
+    {
+        "name":"Gary",
+        "age":9,
+        "residence":"124 Conch Street",
+        "occupation":"None",
+        "date":"2010-03-09"
+    },
+    {
+        "name":"Mr. Crabs",
+        "age":72,
+        "residence":"Anchor House",
+        "occupation":"Owner and manager of the Krusty Krab",
+        "date":"2018-02-11"
+    },
+    {
+        "name":"Pearl Krabs",
+        "age":16,
+        "residence":"Anchor House",
+        "occupation":"High School Student",
+        "date":"2015-12-25"
+    },
+    {
+        "name":"Mrs. Puff",
+        "age":63,
+        "residence":"Mrs. Puff's house",
+        "occupation":"Driving Teacher",
+        "date":"2018-04-05"
+    },
+    {
+        "name":"Larry the Lobster",
+        "age":25,
+        "residence":"The Beach",
+        "occupation":"Lifeguard",
+        "date":"2013-07-13"
+    }
+]}
